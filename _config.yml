@@ -2,7 +2,7 @@ name: Wangana
 description:  Jekyll theme
 
 sass:
-  sass_dir: assets/css/_sass
+  sass_dir: ./assets/css/_sass
   style: :compressed
 
 markdown: redcarpet
